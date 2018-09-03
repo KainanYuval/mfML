@@ -1,0 +1,54 @@
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\bin\x64\Debug\DataSetsSparsity.exe.config
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\bin\x64\Debug\DataSetsSparsity.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\bin\x64\Debug\DataSetsSparsity.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\bin\x64\Debug\wf.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\bin\x64\Debug\wf.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\CONFIG.csprojResolveAssemblyReference.cache
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\CONFIG.csproj.GenerateResource.Cache
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\DataSetsSparsity.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\july2017\CONFIG\obj\x64\Debug\DataSetsSparsity.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.exe.config
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\bin\x64\Debug\wf.exe
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\bin\x64\Debug\wf.pdb
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\CONFIG.csprojResolveAssemblyReference.cache
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.Form1.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\Oren E\Google Drive\teaching\mlMath\WF\CONFIG\obj\x64\Debug\CONFIG.csproj.GenerateResource.Cache
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.exe.config
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.exe
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\DataSetsSparsity.pdb
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\wf.exe
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\wf.pdb
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\bin\x64\Debug\wf.exe.config
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\CONFIG.csprojAssemblyReference.cache
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.Form1.resources
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.ProgressForm.resources
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\CONFIG.csproj.GenerateResource.cache
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\CONFIG.csproj.CoreCompileInputs.cache
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\CONFIG.csproj.CopyComplete
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.exe
+C:\ProgrammingOriented\projects\MFML\MFML2018\WF\CONFIG\obj\x64\Debug\DataSetsSparsity.pdb
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\DataSetsSparsity.exe.config
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\DataSetsSparsity.exe
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\DataSetsSparsity.pdb
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\wf.exe
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\wf.pdb
+C:\Users\yuval\Desktop\WF - mine\CONFIG\bin\x64\Debug\wf.exe.config
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\CONFIG.csprojAssemblyReference.cache
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\DataSetsSparsity.Form1.resources
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\DataSetsSparsity.ProgressForm.resources
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\DataSetsSparsity.Properties.Resources.resources
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\CONFIG.csproj.GenerateResource.cache
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\CONFIG.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\CONFIG.csproj.CopyComplete
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\DataSetsSparsity.exe
+C:\Users\yuval\Desktop\WF - mine\CONFIG\obj\x64\Debug\DataSetsSparsity.pdb
